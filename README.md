@@ -16,7 +16,7 @@ Execute the program
 # CODE
 ```html
 <title>SEC SLOT TIMETABLE</title>
-![logo](https://github.com/mohammadfaizal87/timetable/assets/147139206/a3b5e65e-a872-4eb5-ab2b-5544d94a7292)
+![Logo](https://github.com/mohammadfaizal87/timetable/assets/147139206/ab98a736-d65c-44c1-afd8-b053f51e54ea)
 
     <tr>
         <th align="center" bgcolor="yellow">8-10</th>
