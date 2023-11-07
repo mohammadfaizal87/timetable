@@ -18,7 +18,7 @@ Execute the program
 
 ```html
 <title>SEC SLOT TIMETABLE</title>
-<h2>SLOT TIMETABLE-MOHAMMAD FAIZAL S.K(23013519)</h2>
+
 <tr>
     <th align="center" bgcolor="yellow">Day/Time</th>
     <th align="center" bgcolor="red">Monday</th>
