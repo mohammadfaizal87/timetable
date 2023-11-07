@@ -21,11 +21,11 @@ Execute the program
 
 <tr>
     <th align="center" bgcolor="yellow">Day/Time</th>
-    <th align="center" bgcolor="red">Monday</th>
-    <th align="center" bgcolor="red">Tuesday</th>
-    <th align="center" bgcolor="red">Wednesday</th>
-    <th align="center" bgcolor="red">Thursday</th>
-    <th align="center" bgcolor="red">Friday</th>
+    <th align="center" bgcolor="yellow">Monday</th>
+    <th align="center" bgcolor="yellow">Tuesday</th>
+    <th align="center" bgcolor="yellow">Wednesday</th>
+    <th align="center" bgcolor="yellow">Thursday</th>
+    <th align="center" bgcolor="yellow">Friday</th>
 </tr>
 
     <tr>
