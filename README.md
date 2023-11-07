@@ -118,7 +118,8 @@ Execute the program
 ```
 
 # OUPUT 
-![255460186-ddb581d9-4493-4c00-bc30-b7b4d30385b2](https://github.com/mohammadfaizal87/timetable/assets/147139206/874cd122-89eb-4c4b-a713-5868361f7cf9)
+![SLOT TIMETABLE](https://github.com/mohammadfaizal87/timetable/assets/147139206/c058f49f-0171-46c5-9523-274e1333774b)
+
 
 # RESULT
    Program has been executed successfully
