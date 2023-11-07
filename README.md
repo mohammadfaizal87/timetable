@@ -120,7 +120,8 @@ Execute the program
 ```
 
 # OUPUT 
-![SLOT TIMETABLE](https://github.com/mohammadfaizal87/timetable/assets/147139206/f319eede-766e-4678-bf15-7a5dc87fc806)
+![TIMETABLE](https://github.com/mohammadfaizal87/timetable/assets/147139206/4bd01939-3c9a-48ef-b378-dfca8d5ea276)
+
 
 
 
