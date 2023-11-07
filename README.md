@@ -18,7 +18,8 @@ Execute the program
 
 ```html
 <title>SEC SLOT TIMETABLE</title>
-
+<table border="3" width="600" cellspacing='3' cellpaddling='3'>
+<h2 allign="centre">SEC SLOT TIMETABLE MOHAMMADFAIZAL S.K(23013519)</h2>
 <tr>
     <th align="center" bgcolor="yellow">Day/Time</th>
     <th align="center" bgcolor="yellow">Monday</th>
@@ -39,6 +40,7 @@ Execute the program
         <th align="center" bgcolor="yellow">10-12</th>
         <td align="center" bgcolor="cyan">GER</td>
         <td align="center" bgcolor="cyan">CHE</td>
+        <td align="center" bgcolor="cyan" colspan="3">FREE SLOT</td>
     </tr>
     
     <tr>
@@ -118,7 +120,8 @@ Execute the program
 ```
 
 # OUPUT 
-![SLOT TIMETABLE](https://github.com/mohammadfaizal87/timetable/assets/147139206/58cbbc1a-09a0-458c-8895-a3147d782800)
+![SLOT TIMETABLE](https://github.com/mohammadfaizal87/timetable/assets/147139206/f319eede-766e-4678-bf15-7a5dc87fc806)
+
 
 
 
