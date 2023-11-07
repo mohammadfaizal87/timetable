@@ -18,6 +18,14 @@ Execute the program
 
 ```html
 <title>SEC SLOT TIMETABLE</title>
+<tr>
+    <th align="center" bgcolor="yellow">Day/Time</th>
+    <th align="center" bgcolor="red">Monday</th>
+    <th align="center" bgcolor="red">Tuesday</th>
+    <th align="center" bgcolor="red">Wednesday</th>
+    <th align="center" bgcolor="red">Thursday</th>
+    <th align="center" bgcolor="red">Friday</th>
+</tr>
 
     <tr>
         <th align="center" bgcolor="yellow">8-10</th>
