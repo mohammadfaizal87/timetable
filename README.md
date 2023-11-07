@@ -14,9 +14,10 @@ Add your timetable
 Execute the program
 
 # CODE
+![Logo](https://github.com/mohammadfaizal87/timetable/assets/147139206/ab98a736-d65c-44c1-afd8-b053f51e54ea)
+
 ```html
 <title>SEC SLOT TIMETABLE</title>
-![Logo](https://github.com/mohammadfaizal87/timetable/assets/147139206/ab98a736-d65c-44c1-afd8-b053f51e54ea)
 
     <tr>
         <th align="center" bgcolor="yellow">8-10</th>
@@ -107,4 +108,7 @@ Execute the program
     </tr>
 ```
 
-# OUPUT
+# OUPUT 
+![255460186-ddb581d9-4493-4c00-bc30-b7b4d30385b2](https://github.com/mohammadfaizal87/timetable/assets/147139206/874cd122-89eb-4c4b-a713-5868361f7cf9)
+
+
