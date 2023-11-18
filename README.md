@@ -14,7 +14,6 @@ Add your timetable
 Execute the program
 
 # CODE
-![Logo](https://github.com/mohammadfaizal87/timetable/assets/147139206/ab98a736-d65c-44c1-afd8-b053f51e54ea)
 
 ```html
 <title>SEC SLOT TIMETABLE</title>
