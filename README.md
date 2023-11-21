@@ -119,7 +119,8 @@ Execute the program
 ```
 
 # OUPUT 
-![TIMETABLE](https://github.com/mohammadfaizal87/timetable/assets/147139206/4bd01939-3c9a-48ef-b378-dfca8d5ea276)
+
+![TimeTable](https://github.com/mohammadfaizal87/timetable/assets/147139206/c6c994ae-ccb9-43e1-ac36-d36b23e027c0)
 
 
 
